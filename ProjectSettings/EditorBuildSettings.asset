@@ -11,8 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HelloCardboard.unity
     guid: 145a2a45d7bc746b19cb68410368bf96
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Dashboard Scene_2.unity
     guid: ea0748220c7a8684bb015bd5f20ccb52
+  - enabled: 1
+    path: Assets/Scenes/MeditationArea.unity
+    guid: fe702927bd278ab4692cf25888ea1d8e
+  - enabled: 1
+    path: Assets/Scenes/MeetingRoom.unity
+    guid: 5450df6ebf1e49d4e8d7d664215bdf98
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7007b66862f7c9e4e9b0cf777c93933b, type: 2}

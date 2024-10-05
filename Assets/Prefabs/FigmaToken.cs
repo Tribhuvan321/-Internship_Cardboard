@@ -1,4 +1,0 @@
-
-Figma token:
-
-figd_rd8rr5_UK_eUzLI3TmU3HVfr4wIPs55KFv1TaYci

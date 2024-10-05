@@ -39,7 +39,7 @@ public class ObjectController : MonoBehaviour
     public Material GazedAtMaterial;
 
     public GameObject loadingCanvas;
-    public AsyncLoadingScreen als;
+    public AsyncLoadingScreenFromVR als;
 
     // The objects are about 1 meter in radius, so the min/max target distance are
     // set so that the objects are always within the room (which is about 5 meters
